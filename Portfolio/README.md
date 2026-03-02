@@ -3,7 +3,7 @@
 Welcome to the source code for my personal portfolio website! This project is a showcase of my skills in modern web development, featuring a sleek design, engaging animations, and a fully interactive user experience. Built with React, Vite, and Tailwind CSS, and brought to life with Framer Motion and Three.js.
 
 ---
-🚀 **[View the Live Demo](https://portfolio-resham.vercel.app/)**
+
 ---
 ![Portfolio Showcase](https://i.imgur.com/YOUR_GIF_URL.gif)
 
@@ -43,7 +43,7 @@ To run this project locally, follow these steps:
 **1. Clone the repository:**
 
 ```bash
-git clone [https://github.com/Resham011/Portfolio.git](https://github.com/Resham011/Portfolio.git)
+git clone 
 cd Portfolio
 ```
 
